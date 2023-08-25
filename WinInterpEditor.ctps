@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="WinInterpEditor.ppr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos Y="26"/>
+        <UsageCount Value="60"/>
+      </Unit>
+      <Unit>
+        <Filename Value="WinInterpEditorMainForm.pas"/>
+        <FRMtype Value="200"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmWinInterpEditorMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="73"/>
+        <CursorPos X="91" Y="87"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <FRMtype Value="400"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frDrawingBoard"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="3038"/>
+        <CursorPos Y="3060"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DynTFTCodeGen\ComponentPlugins\DynTFTCodeGenSharedDataTypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="77"/>
+        <CursorPos X="34" Y="42"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\UIClicker\ClickerWinInterpFrame.pas"/>
+        <FRMtype Value="400"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frClickerWinInterp"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2236"/>
+        <CursorPos X="23" Y="2257"/>
+        <UsageCount Value="59"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\UIClicker\ClickerUtils\ClickerUtils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="293"/>
+        <CursorPos X="5" Y="310"/>
+        <UsageCount Value="59"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\MiscUtils\InMemFileSystem.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="59"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DrawingBoard\DrawingBoardUtils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="153"/>
+        <CursorPos X="25" Y="169"/>
+        <UsageCount Value="48"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DynTFTCodeGen\DynTFTCodeGenDataTypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="28"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DynTFTCodeGen\DynTFTCodeGenPanelDrawing.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="139"/>
+        <CursorPos X="31" Y="151"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\DynTFT\TFT.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DynTFTCodeGen\DynTFTCodeGenDrawingBoardUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1169"/>
+        <CursorPos X="39" Y="1183"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\DynTFT\DynTFTConsts.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="122"/>
+        <CursorPos X="41" Y="137"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DynTFTCodeGen\DynTFTCodeGenComponentPlugins.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="59" Y="9"/>
+        <UsageCount Value="15"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DynTFTCodeGen\ComponentPlugins\DynTFTSharedUtils.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="40"/>
+        <CursorPos X="20" Y="44"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\UIClicker\BitmapProcessing.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="9"/>
+        <CursorPos X="15" Y="29"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\UIClicker\ClickerUtils\ClickerActionsClient.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="141"/>
+        <CursorPos X="10" Y="158"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\DrawingBoard\DrawingBoardDataTypes.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="230"/>
+        <CursorPos Y="252"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1267" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1268" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1272" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1283" TopLine="1266"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1261" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1262" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1263" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1264" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1265" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1266" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1267" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1268" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1261" TopLine="1244"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="1258" Column="33" TopLine="1238"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3215" Column="20" TopLine="3203"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3220" Column="19" TopLine="3203"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardUtils.pas"/>
+        <Caret Line="129" Column="22" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardUtils.pas"/>
+        <Caret Line="387" Column="84" TopLine="382"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardUtils.pas"/>
+        <Caret Line="421" Column="24" TopLine="405"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardUtils.pas"/>
+        <Caret Line="31" Column="3" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="400" Column="11" TopLine="383"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="110" Column="16" TopLine="99"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3056" Column="20" TopLine="3047"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3057" Column="20" TopLine="3047"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3058" Column="20" TopLine="3047"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3339" Column="22" TopLine="3323"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3343" Column="22" TopLine="3323"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="3392" Column="22" TopLine="3373"/>
+      </Position>
+      <Position>
+        <Filename Value="..\DrawingBoard\DrawingBoardFrame.pas"/>
+        <Caret Line="110" Column="22" TopLine="93"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
